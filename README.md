@@ -1,6 +1,6 @@
 ### Here is What I'm Working On!👋
     
-![](https://komarev.com/ghpvc/?username=Lord-Aman&color=87e6d4) 
+![](https://komarev.com/ghpvc/?username=Lord-Aman&color=47ccb3) 
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning  JavaScript
