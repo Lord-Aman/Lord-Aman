@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman)](https://github.com/Lord-Aman/github-readme-stats)
 
-![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=radical)
+![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=dark)
