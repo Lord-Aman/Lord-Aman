@@ -8,6 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Motu Patlu are my favourite characters :D
 
+![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=synthwave)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman)](https://github.com/Lord-Aman/github-readme-stats)
 
-![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=dark)
+
