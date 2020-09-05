@@ -10,9 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman)](https://github.com/Lord-Aman/github-readme-stats)
 
-<a href="https://github.com/Lord-Aman/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lord-Aman&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Lord-Aman/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lord-Aman&repo=convoychat" />
-</a>
+![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=radical)
