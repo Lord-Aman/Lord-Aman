@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Motu Patlu are my favourite characters :D
 
 ![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=onedark)                                                      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman)](https://github.com/Lord-Aman/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman&layout=compact)](https://github.com/Lord-Aman/github-readme-stats) 
 
 
 
