@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/aman-kumar-8997131a7/)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Motu Patlu are my favourite characters :D
+- ⚡ Fun fact: ...Motu Patlu are my favourite characters
 -->
