@@ -7,3 +7,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-kumar-8997131a7/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Motu Patlu are my favourite characters :D
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman)](https://github.com/Lord-Aman/github-readme-stats)
