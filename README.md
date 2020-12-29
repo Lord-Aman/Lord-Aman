@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Lord-Aman&color=47ccb3) 
 
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning  JavaScript
+- 🌱 Have a look at my weird 😂 [portfolio](https://lord-aman.github.io/Portfolio-matte/)
 - 👯 I’m looking to collaborate on Web Development and Android App Development Projects
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-kumar-8997131a7/)
