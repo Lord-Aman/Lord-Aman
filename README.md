@@ -1,6 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/Lord-Aman" target="_blank">Aman.</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/Lord-Aman" target="_blank">Aman.</h1>
     
 ![](https://komarev.com/ghpvc/?username=Lord-Aman&color=47ccb3)
+
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 Have a look at my weird 😂 [portfolio](https://lord-aman.github.io/Portfolio-matte/)
@@ -42,20 +43,4 @@
 </details>
 
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
- 
-<a href="#"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="#"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="#"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="mailto:aakashaman1770@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
-|--|--|--|--|--|
-<br>
-<br>
-
---- 
-
-<p align="center">
-   <i>
-     "If You Think Math is Hard Try Web Design" <br>
-                                         -Trish Parr
-  </i>
-</p>       
-
-
-
+- 
