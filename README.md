@@ -10,6 +10,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Motu Patlu are my favourite characters :D
 
+<p>
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lord-Aman&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=onedark)                                                      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman&layout=compact)](https://github.com/Lord-Aman/github-readme-stats) 
 
