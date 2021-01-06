@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Lord-Aman&color=47ccb3)
 
 
-<img width="40%" align="left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Have a look at my weird 😂 [portfolio](https://lord-aman.github.io/Portfolio-matte/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-kumar-8997131a7/)
