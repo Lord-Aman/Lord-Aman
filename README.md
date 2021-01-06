@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Motu Patlu are my favourite characters :D
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <p>
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
