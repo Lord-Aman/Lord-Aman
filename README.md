@@ -2,8 +2,6 @@
     
 ![](https://komarev.com/ghpvc/?username=Lord-Aman&color=47ccb3)
 
-
-- 🔭 I’m currently working on Web Development 
 - 🌱 Have a look at my weird 😂 [portfolio](https://lord-aman.github.io/Portfolio-matte/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-kumar-8997131a7/)
 - 😄 Pronouns: He/Him
@@ -43,4 +41,3 @@
 </details>
 
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
-- 
