@@ -22,6 +22,7 @@
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
+  <img src="https://m.gifmania.co.uk/Web-Design-Animated-Gifs/Animated-Signs-Websites/Java-Signs/Java-Logo-62291.gif" width="70">    
 </p>
 
 <details>
