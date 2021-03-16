@@ -34,6 +34,4 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman&layout=compact" />
 </details>
 
-![Hey there, I'm Aman. I'm a software developer, a Student and infosec enthusiast.](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
