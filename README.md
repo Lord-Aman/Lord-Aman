@@ -34,9 +34,6 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Aman&layout=compact" />
 </details>
 
-<details>
-  <summary>😄 Here is meme for you, to make your day better</summary>
-   <a href="https://github.com/Lord-Aman"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/meme.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
-</details>
+![Hey there, I'm Aman. I'm a software developer, a Student and infosec enthusiast.](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
