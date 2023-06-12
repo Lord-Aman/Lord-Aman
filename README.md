@@ -5,10 +5,8 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Have a look at my weird 😂[portfolio](https://lord-aman.github.io/Portfolio-matte/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-kumar-8997131a7/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Motu Patlu are my favourite characters :D
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lord-Aman&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
